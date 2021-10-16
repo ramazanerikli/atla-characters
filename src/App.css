@@ -45,7 +45,8 @@ header {
   border: none;
 }
 
-.card img { 
+.card img {  
+  
   width: 100%;
   max-width: 300px;
   max-height: 225px;
