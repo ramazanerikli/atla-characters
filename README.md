@@ -6,6 +6,7 @@ Live: https://atla-characters.netlify.app/
 
 ## Features
 - Displays information about each character's <strong>name</strong>, <strong>afilliation</strong>, <strong>allies</strong>, <strong>enemies</strong>.
+- Displays 4 symbols (air, water, fire, earth) based on character's nation.
 
 ## Technologies Used
 - React.js
