@@ -43,8 +43,15 @@ const App = () => {
 
 
   return (
-    <div className="container">
+    <div className="container container-md container-sm">
       <Header />
+
+      <nav>
+        <div className="title">
+          <h2>List of characters</h2>
+          <div className="divider"></div>
+        </div>
+      </nav>
       
       <Characters 
         characters={characters} 
