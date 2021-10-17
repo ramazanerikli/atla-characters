@@ -11,4 +11,5 @@ Live: https://atla-characters.netlify.app/
 - React.js
 - Bootstrap
 - React-Pagination
+- Last Airbender API
 
